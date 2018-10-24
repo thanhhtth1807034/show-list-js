@@ -1,27 +1,27 @@
 var student1 = {
-    rollNumber : '02/04/2000',
-    name : 'hoang tat thanh',
+    rollNumber : 'A01',
+    name : 'Ferrari',
     phone : '0987654321',
     address : 'ha noi',
     avatar : 'https://www.virginexperiencedays.co.uk/content/img/product/large/supercar-thrill-at-top-09123651.jpg'
 };
 var student2 = {
-    rollNumber : '14/10/2000',
-    name : 'nguyen van dat',
+    rollNumber : 'A02',
+    name : 'Audi',
     avatar : 'https://cdn.drivemag.net/media/default/0001/72/BMW-iNext-9135-default-large.jpeg',
     phone : '0987654321',
     address : 'hai duong'
 };
 var student3 = {
-    rollNumber : '17/06/1976',
-    name : 'tran quoc hoan',
+    rollNumber : 'A03',
+    name : 'mezcedez',
     address : 'ha noi',
     phone : '0987654321',
     avatar : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSunEjOZSMdGAMl271GXew8lVa7UtN6JjdV2l86Btsxw3w6kM9r'
 };
 var student4 = {
-    rollNumber : '12/05/2000',
-    name : 'tran trung tien',
+    rollNumber : 'A04',
+    name : 'lamborigigit ',
     address : 'ha noi',
     phone : '0987654321',
     avatar :'https://cdn1.evo.co.uk/sites/evo/files/styles/gallery_adv/public/2017/12/alp_7149.jpg?itok=I5A01u7k'
